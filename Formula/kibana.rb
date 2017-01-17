@@ -4,7 +4,7 @@ class Kibana < Formula
   url "https://download.elastic.co/kibana/kibana/kibana-4.6.4-darwin-x86_64.tar.gz"
   sha256 "11b4ff427d85e687b5f7f6fbe5c2281ea5fcca51"
 
-  depends_on "elasticsearch"
+  depends_on "elasticsearch@2.4"
 
   head "https://download.elastic.co/kibana/kibana/kibana-4.6.4-darwin-x86_64.tar.gz"
 
