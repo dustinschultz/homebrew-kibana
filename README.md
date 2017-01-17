@@ -1,11 +1,11 @@
-# Kibana Homebrew Tap
+# Kibana 4.6.4 Homebrew Tap
 
 This tap is intended to ease the installation and use of Kibana.
 
 ## Installation
 
-1. `brew tap jappievw/kibana`
-1. `brew tap-pin jappievw/kibana`
+1. `brew tap dustinschultz/kibana`
+1. `brew tap-pin dustinschultz/kibana`
 
 ## Usage
 
